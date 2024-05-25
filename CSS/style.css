@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+}
+
+button:hover {
+    background-color: green;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+h3 , p{
+    font-weight:400;
+    font-size: 35px;
+}
